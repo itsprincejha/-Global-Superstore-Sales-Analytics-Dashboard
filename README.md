@@ -122,3 +122,54 @@ The solution includes **five interactive dashboards** covering Executive Perform
 - State Performance
 - City Performance
 - Geographic Sales Distribution
+
+---
+
+# 💡 Key Skills Demonstrated
+
+- Business Intelligence
+- Dashboard Design
+- KPI Development
+- Data Visualization
+- Business Analysis
+- Data Modeling
+- DAX
+- Power Query
+- SQL Analysis
+- Executive Reporting
+- Data Storytelling
+
+---
+
+# 🎯 Business Impact
+
+This dashboard enables stakeholders to:
+
+- Monitor key business KPIs in real time.
+- Identify sales and profitability trends.
+- Analyze customer behavior.
+- Evaluate product performance.
+- Compare regional business performance.
+- Support strategic business decisions through interactive reporting.
+
+---
+
+# 👨‍💻 About the Author
+
+## Prince Jha
+
+**Aspiring Data Analyst | Power BI | SQL | Excel | Python**
+
+I enjoy transforming raw data into meaningful business insights through interactive dashboards and data-driven storytelling. I am actively seeking opportunities to apply my analytical skills in solving real-world business problems.
+
+
+
+📧 Email: *myselfprince40@gmal.com*
+
+💼 LinkedIn: *https://www.linkedin.com/in/20princejha/*
+
+🐙 GitHub: *https://github.com/itsprincejha*
+
+---
+
+# ⭐ If you found this project useful, please consider giving it a Star!
